@@ -2,6 +2,15 @@
 @font-face { font-family: modes; src: url('modes.ttf.html'); } 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&amp;display=swap');
 
+balls-skibidi-toaleta {
+  color: #ffffff;
+  border: rgb(0, 0, 0);
+  border-radius: 5px;
+  font-size: 18px;
+  font-family: "Courier New", Monospace;
+    }  
+
+
 .noise {
     z-index: 1
 }
@@ -729,4 +738,29 @@ h4 {
 p, span {
   color: white;
   font-family: monospace;
+}
+.border-text {
+  font-size: 2em; /* Adjust the size as needed */
+  color: #e67cd7; /* Text color */
+  text-shadow:
+      1px 1px 0 #000, 
+      -1px -1px 0 #000,  
+      1px -1px 0 #000,  
+      -1px 1px 0 #000; 
+  display: inline-block;
+}
+
+.styled-link {
+  display: inline-block;
+  background-image: url('https://i.ibb.co/D8vWbSn/sparkle.gif');
+  background-size: cover; /* Ensures the background image covers the link area */
+  color: #e67cd7; /* Text color */
+  padding: 0.5em 1em; /* Adjust padding as needed */
+  text-decoration: none; /* Removes underline from the link */
+  border-radius: 0.5em; /* Rounded corners for the link */
+  text-align: center;
+}
+
+.styled-link:hover {
+  opacity: 0.8; /* Optional: adds a hover effect */
 }

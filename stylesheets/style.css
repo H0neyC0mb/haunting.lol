@@ -16,7 +16,7 @@ html{
     height:-webkit-fill-available
 }
 body{
-    background-color: #060707;
+    background-image:url(https://postimg.cc/dh4bMCKT);
     -webkit-touch-callout:none;
     -webkit-user-select:none;
     -khtml-user-select:none;
@@ -361,3 +361,50 @@ p, span {
     justify-content: center;
     align-items: center;
 }
+.rainbow {  
+    /* Font options */
+   text-shadow: 4px 4px 4px #4b4b4b;
+   
+    /* Chrome, Safari, Opera */
+   -webkit-animation: rainbow 2s infinite; 
+   
+   /* Internet Explorer */
+   -ms-animation: rainbow 2s infinite;
+   
+   /* Standar Syntax */
+   animation: rainbow 2s infinite; 
+  }
+  
+  /* Chrome, Safari, Opera */
+  @-webkit-keyframes rainbow{
+    0%{color: rgb(255, 187, 246);}	
+    17%{color: rgb(255, 255, 255);}
+    33%{color:rgb(255, 187, 246);}
+    50%{color: rgb(255, 255, 255);}
+    67%{color: rgb(255, 187, 246);}
+    84%{color: rgb(255, 255, 255);}
+     100%{color: rgb(255, 187, 246);}
+  }
+  
+  /* Internet Explorer */
+  @-ms-keyframes rainbow{
+    0%{color: rgb(255, 187, 246);}	
+    17%{color: rgb(255, 255, 255);}
+    33%{color:rgb(255, 187, 246);}
+    50%{color: rgb(255, 255, 255);}
+    67%{color: rgb(255, 187, 246);}
+    84%{color: rgb(255, 255, 255);}
+     100%{color: rgb(255, 187, 246);}
+  }
+  
+  /* Standar Syntax */
+  @keyframes rainbow{
+     0%{color: rgb(255, 187, 246);}	
+   17%{color: rgb(255, 255, 255);}
+   33%{color:rgb(255, 187, 246);}
+   50%{color: rgb(255, 255, 255);}
+   67%{color: rgb(255, 187, 246);}
+   84%{color: rgb(255, 255, 255);}
+    100%{color: rgb(255, 187, 246);}
+  }
+  
