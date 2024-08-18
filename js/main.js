@@ -1,5 +1,5 @@
 let counter = 0,
-    Title = 'meowowo @w.by', 
+    Title = ' w.by @ Haunting.lol ', 
     direction = true
 aniTitle = setInterval(function () {
     if (counter == Title.length) {
