@@ -1,1 +1,38 @@
-const _0x1069c1=_0x219e;(function(_0x33219a,_0x22616e){const _0x526a75=_0x219e,_0x1c9da2=_0x33219a();while(!![]){try{const _0x4f1413=parseInt(_0x526a75(0x1c8))/0x1*(-parseInt(_0x526a75(0x1ce))/0x2)+-parseInt(_0x526a75(0x1cd))/0x3+parseInt(_0x526a75(0x1c7))/0x4+-parseInt(_0x526a75(0x1d0))/0x5+-parseInt(_0x526a75(0x1bc))/0x6+parseInt(_0x526a75(0x1bd))/0x7+-parseInt(_0x526a75(0x1be))/0x8*(-parseInt(_0x526a75(0x1c2))/0x9);if(_0x4f1413===_0x22616e)break;else _0x1c9da2['push'](_0x1c9da2['shift']());}catch(_0x2b990c){_0x1c9da2['push'](_0x1c9da2['shift']());}}}(_0x2486,0x44c2e));const body=document[_0x1069c1(0x1cb)]('body')[0x0];function _0x219e(_0x57796d,_0x4bf77f){const _0x24866e=_0x2486();return _0x219e=function(_0x219e8d,_0x5757bc){_0x219e8d=_0x219e8d-0x1bc;let _0x24cbf5=_0x24866e[_0x219e8d];return _0x24cbf5;},_0x219e(_0x57796d,_0x4bf77f);}function _0x2486(){const _0x4e3184=['408822yRacpM','2411661BAJTor','203544TZrPSp','preventDefault','contextmenu','innerHTML','162QxsKXO','ctrlKey','addEventListener','<h1\x20style=\x22text-align:\x20center;\x20position:\x20absolute;\x20top:\x2050%;\x20left:\x2050%;\x20transform:\x20translate(-50%,\x20-50%);\x22>why\x20are\x20we\x20skidding?\x20Cool\x20ip\x20doe\x20','keydown','259372iMawfp','57655uUyQvW','\x20-\x20@ow_o\x20on\x20dsicord\x20</h1>','key','getElementsByTagName','json','220509LsxQoF','10TMjtgm','then','778895AhBegc','https://api.ipify.org/?format=json'];_0x2486=function(){return _0x4e3184;};return _0x2486();}fetch(_0x1069c1(0x1d1))['then'](_0x5a1b47=>_0x5a1b47[_0x1069c1(0x1cc)]())[_0x1069c1(0x1cf)](_0x368375=>{const _0xd683a6=_0x1069c1,_0x1a38da=_0x368375['ip'];window[_0xd683a6(0x1c4)](_0xd683a6(0x1c6),_0x5902cb=>{const _0x2e8bc2=_0xd683a6;_0x5902cb[_0x2e8bc2(0x1c3)]&&(_0x5902cb[_0x2e8bc2(0x1ca)]==='S'||_0x5902cb[_0x2e8bc2(0x1ca)]==='s')&&(_0x5902cb[_0x2e8bc2(0x1bf)](),body[_0x2e8bc2(0x1c1)]='<h1\x20style=\x22text-align:\x20center;\x20position:\x20absolute;\x20top:\x2050%;\x20left:\x2050%;\x20transform:\x20translate(-50%,\x20-50%);\x22>why\x20are\x20we\x20skidding?\x20Cool\x20ip\x20doe\x20'+_0x1a38da+'\x20-\x20@ow_o\x20on\x20dsicord\x20</h1>'),_0x5902cb[_0x2e8bc2(0x1c3)]&&_0x5902cb[_0x2e8bc2(0x1ca)]==='C'&&(_0x5902cb['preventDefault'](),body['innerHTML']=_0x2e8bc2(0x1c5)+_0x1a38da+_0x2e8bc2(0x1c9)),_0x5902cb[_0x2e8bc2(0x1c3)]&&(_0x5902cb[_0x2e8bc2(0x1ca)]==='E'||_0x5902cb[_0x2e8bc2(0x1ca)]==='e')&&(_0x5902cb[_0x2e8bc2(0x1bf)](),body['innerHTML']=_0x2e8bc2(0x1c5)+_0x1a38da+_0x2e8bc2(0x1c9)),_0x5902cb[_0x2e8bc2(0x1c3)]&&(_0x5902cb['key']==='I'||_0x5902cb[_0x2e8bc2(0x1ca)]==='i'||_0x5902cb[_0x2e8bc2(0x1ca)]==='Ä±')&&(_0x5902cb['preventDefault'](),body['innerHTML']=_0x2e8bc2(0x1c5)+_0x1a38da+_0x2e8bc2(0x1c9)),_0x5902cb[_0x2e8bc2(0x1c3)]&&(_0x5902cb[_0x2e8bc2(0x1ca)]==='K'||_0x5902cb[_0x2e8bc2(0x1ca)]==='k')&&(_0x5902cb[_0x2e8bc2(0x1bf)](),body['innerHTML']=_0x2e8bc2(0x1c5)+_0x1a38da+'\x20-\x20@ow_o\x20on\x20dsicord\x20</h1>'),_0x5902cb['ctrlKey']&&(_0x5902cb['key']==='U'||_0x5902cb['key']==='u')&&(_0x5902cb[_0x2e8bc2(0x1bf)](),body[_0x2e8bc2(0x1c1)]='<h1\x20class=\x22sparkle\x22:\x20style=\x22text-align:\x20center;\x20position:\x20absolute;\x20top:\x2050%;\x20left:\x2050%;\x20transform:\x20translate(-50%,\x20-50%);\x22>why\x20are\x20we\x20skidding?\x20Cool\x20ip\x20doe\x20'+_0x1a38da+_0x2e8bc2(0x1c9));});}),document[_0x1069c1(0x1c4)](_0x1069c1(0x1c0),function(_0x192165){_0x192165['preventDefault']();});
+const body = document.getElementsByTagName('body')[0];
+
+fetch('https://api.ipify.org/?format=json')
+ .then(response => response.json())
+ .then(data => {
+    const ip = data.ip;
+
+    window.addEventListener('keydown', (event) => {
+      if (event.ctrlKey && (event.key === 'S' || event.key === 's')) {
+        event.preventDefault()
+        body.innerHTML = `<h1 style="text-align: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">why are we skidding? Cool ip doe ${ip} - @ow_o on dsicord </h1>`;
+      }
+      if (event.ctrlKey && event.key === 'C') {
+        event.preventDefault()
+        body.innerHTML = `<h1 style="text-align: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">why are we skidding? Cool ip doe ${ip} - @ow_o on dsicord </h1>`;
+      }
+      if (event.ctrlKey && (event.key === 'E' || event.key === 'e')) {
+        event.preventDefault()
+        body.innerHTML = `<h1 style="text-align: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">why are we skidding? Cool ip doe ${ip} - @ow_o on dsicord </h1>`;
+      }
+      if (event.ctrlKey && (event.key === 'I' || event.key === 'i' || event.key === 'Ä\xB1')) {
+        event.preventDefault()
+        body.innerHTML = `<h1 style="text-align: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">why are we skidding? Cool ip doe ${ip} - @ow_o on dsicord </h1>`;
+      }
+      if (event.ctrlKey && (event.key === 'K' || event.key === 'k')) {
+        event.preventDefault()
+        body.innerHTML = `<h1 style="text-align: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">why are we skidding? Cool ip doe ${ip} - @ow_o on dsicord </h1>`;
+      }
+      if (event.ctrlKey && (event.key === 'U' || event.key === 'u')) {
+        event.preventDefault()
+        body.innerHTML = `<h1 class="sparkle": style="text-align: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">why are we skidding? Cool ip doe ${ip} - @ow_o on dsicord </h1>`;
+      }
+    })
+  });
+
+document.addEventListener('contextmenu', function (e) {
+  e.preventDefault()
+})

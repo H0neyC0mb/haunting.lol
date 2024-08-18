@@ -1,6 +1,6 @@
 (() => {
 
-    let text = "Do you like hello kitty? "
+    let text = "Would you like to enter? "
 
     let elem = document.getElementById("enter-type-in")
     let i = 0
